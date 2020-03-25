@@ -1,0 +1,22 @@
+[
+  {
+    "id":"1",
+    "item":"milk"
+  },
+  {
+    "id":"2",
+    "item":"bread"
+  },
+  {
+    "id":"3",
+    "item":"butter"
+  },
+  {
+    "id":"4",
+    "item":"eggs"
+  },
+  {
+    "id":"5",
+    "item":"yogurt"
+  }
+]
