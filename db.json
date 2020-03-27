@@ -2,27 +2,27 @@
   "ShoppingCartItems":[
   {
     "id":"1",
-    "item":"milk"
+    "item":"milk",
     "quantity":"1"
   },
   {
     "id":"2",
-    "item":"bread"
+    "item":"bread",
     "quantity":"1"
   },
   {
     "id":"3",
-    "item":"butter"
+    "item":"butter",
     "quantity":"1"
   },
   {
     "id":"4",
-    "item":"eggs"
+    "item":"eggs",
     "quantity":"1"
   },
   {
     "id":"5",
-    "item":"yogurt"
+    "item":"yogurt",
     "quantity":"1"
   }
 ]
