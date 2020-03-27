@@ -3,22 +3,27 @@
   {
     "id":"1",
     "item":"milk"
+    "quantity":"1"
   },
   {
     "id":"2",
     "item":"bread"
+    "quantity":"1"
   },
   {
     "id":"3",
     "item":"butter"
+    "quantity":"1"
   },
   {
     "id":"4",
     "item":"eggs"
+    "quantity":"1"
   },
   {
     "id":"5",
     "item":"yogurt"
+    "quantity":"1"
   }
 ]
 }
